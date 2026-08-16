@@ -1,0 +1,6 @@
+{
+  "name": "KMRL IntelliDocs",
+  "description": "Government-grade Document Intelligence & Operational Automation Platform for Kochi Metro Rail Limited (KMRL), featuring Change Impact Simulator, Evidence-backed AI, and Knowledge Graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
